@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray; /* Replace with your desired color */
+}
+
+.image{
+    width: 250px;
+    display: block;
+    /* padding: 25px; */
+    margin: auto;
+    border-radius: 15px;    
+}
+
+p {
+    font-family: Outfit;
+    font-size: 18px; 
+}
+
+.big {
+    font-weight: 700;
+}
+
+.small {
+    font-weight: 400;
+}
+.code {
+    background-color: white;
+    text-align: center;
+    width: auto%; 
+    padding: 10px 10px 10px 10px;
+    max-width: 255px;
+    border-radius: 20px;
+}
+
